@@ -1,0 +1,72 @@
+[
+    {
+      "id": 1,
+      "countryName": "Sweden",
+      "capital": "Stockholm",
+      "population": "10.5 million",
+      "interestingFact": "Home to the world’s first 'ice hotel,' rebuilt every year from ice and snow."
+    },
+    {
+      "id": 2,
+      "countryName": "Brazil",
+      "capital": "Brasília",
+      "population": "203 million",
+      "interestingFact": "Contains the Amazon rainforest, the largest tropical rainforest in the world."
+    },
+    {
+      "id": 3,
+      "countryName": "Japan",
+      "capital": "Tokyo",
+      "population": "125 million",
+      "interestingFact": "Has more vending machines per capita than anywhere else—over 5 million total."
+    },
+    {
+      "id": 4,
+      "countryName": "South Africa",
+      "capital": "Pretoria",
+      "population": "62 million",
+      "interestingFact": "Has three capital cities: Pretoria (executive), Cape Town (legislative), and Bloemfontein (judicial)."
+    },
+    {
+      "id": 5,
+      "countryName": "Iceland",
+      "capital": "Reykjavik",
+      "population": "387,000",
+      "interestingFact": "Nearly all its energy comes from renewable sources like geothermal and hydro."
+    },
+    {
+      "id": 6,
+      "countryName": "India",
+      "capital": "New Delhi",
+      "population": "1.43 billion",
+      "interestingFact": "Hosts the Kumbh Mela, the largest human gathering on Earth, every 12 years."
+    },
+    {
+      "id": 7,
+      "countryName": "New Zealand",
+      "capital": "Wellington",
+      "population": "5.1 million",
+      "interestingFact": "First country to grant women the right to vote in 1893."
+    },
+    {
+      "id": 8,
+      "countryName": "Mongolia",
+      "capital": "Ulaanbaatar",
+      "population": "3.5 million",
+      "interestingFact": "The least densely populated country in the world, with about 2 people per sq km."
+    },
+    {
+      "id": 9,
+      "countryName": "Bhutan",
+      "capital": "Thimphu",
+      "population": "790,000",
+      "interestingFact": "Measures success by Gross National Happiness instead of GDP."
+    },
+    {
+      "id": 10,
+      "countryName": "Papua New Guinea",
+      "capital": "Port Moresby",
+      "population": "10 million",
+      "interestingFact": "Most linguistically diverse country, with over 850 languages spoken."
+    }
+  ]
